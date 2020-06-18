@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pumpk/Desktop/git/4156b601-gr13-repo/Project/functions.h
+stdio.h
+-
+structure.h
+C:/Users/pumpk/Desktop/git/4156b601-gr13-repo/Project/structure.h
+
+C:/Users/pumpk/Desktop/git/4156b601-gr13-repo/Project/main.c
+string.h
+-
+stdlib.h
+-
+stdbool.h
+-
+functions.h
+C:/Users/pumpk/Desktop/git/4156b601-gr13-repo/Project/functions.h
+structure.h
+C:/Users/pumpk/Desktop/git/4156b601-gr13-repo/Project/structure.h
+
+C:/Users/pumpk/Desktop/git/4156b601-gr13-repo/Project/structure.h
+

@@ -1,0 +1,3 @@
+/mnt/c/Users/pumpk/Desktop/git/4156b601-gr13-repo/Project/cmake-build-release-wsl/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/pumpk/Desktop/git/4156b601-gr13-repo/Project/cmake-build-release-wsl/CMakeFiles/edit_cache.dir
+/mnt/c/Users/pumpk/Desktop/git/4156b601-gr13-repo/Project/cmake-build-release-wsl/CMakeFiles/Project.dir

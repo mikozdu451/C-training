@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/Project.dir/main.c.o CMakeFiles/Project.dir/functions.c.o  -o Project 
